@@ -2,7 +2,7 @@
 
 "A estratégia determina como os recursos serão alocados para atingir o objetivo"
 
-"O programa colocar a esse estratégia em prática para que a entrega de valor seja exatamente aquela foi planejada no passo anterior"
+"O programa coloca esse estratégia em prática para que a entrega de valor seja exatamente aquela foi planejada no passo anterior"
 
 "Tudo isso é implantado através do que chamamos de 'Mix de Marketing' e 'Composto de Marketing'".
 
@@ -13,10 +13,10 @@ Regra dos 4P's
 - praça
 - promoção
 
--- Produto: è tudo aquilo disponibiliza ao público-alvo.
+-- Produto: é tudo aquilo disponibiliza ao público-alvo.
 *   Como, quando e onde será utilizado?
 *   quais serão os desejos/necessidades satisfeitos?
-*   como se diferencia dos seus semelhantes?
+*   como se diferenciar dos seus semelhantes?
 
 -- Preço: O que deve ser capturado em troca desse produto?
 *   Quanto ele custa a você?

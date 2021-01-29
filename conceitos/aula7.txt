@@ -1,0 +1,26 @@
+- Construir Relacionamento
+"É possível capturar valor 'sem se preocupar' com o Relacionamento. Mas é importante e gerenciar 'Relacionamentos' duradouros e lucrativos".
+
+ Conceito Costumer Equity: é o valor capturado ao longo do tempo de 'todos os clientes' da empresa.
+
+Conceito de grafico segundo Kotler:
+
+(exio y) Lucratividade - baixa -> Alta
+(eixo x) Fidelidade - curta -> longa
+
+Neste grafico ele definiu quatro tipo de clientes:
+-   estranho: y - baixa / x curta
+-   borboleta: y - alta / x curta
+-   marísco: y - baixa / x longa
+-   amigo: y - alta / x longa
+
+-   Todas as empresas de sucesso mantém um bom Relacionamento com o cliente, buscam sempre a melhor experiência possível.
+
+OBS: 7 dicas básicas para Construir Relacionamento
+1: Forneça uma boa experiência.
+2: Conheça bem seu cliente.
+3: Segmentação é muito importante.
+4: Emoções vendem bem.
+5: Seu público faz parte da criação.
+6: Incentive o retorno do seu cliente.
+7: Monitore resultados.
